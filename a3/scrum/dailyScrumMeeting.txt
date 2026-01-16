@@ -1,0 +1,98 @@
+# Fill in, commit and push each day.
+# Group Member: Fahad Sadiq Khan
+
+Nov 17, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 18, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 19, 2024
+	Yesterday :
+	Today     : finished the lab which encompases understanding the assignment code, how it works, and what process I want to take to work on it.
+	Obstacles : There are many design patterns at play working in synnergy, understanding them altogether might be tough
+
+Nov 20, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 21, 2024
+	Yesterday :
+	Today     : started working on sprint, focused on understanding code to get better future flow
+	Obstacles : literally just making sense of everything, i want to take my time so i dont make mistakes
+
+Nov 22, 2024
+	Yesterday : started with understanding code
+	Today     : finished US3.1
+	Obstacles : had a bug with line hover, had to resolve it which was more annoying then expected
+	
+Nov 23, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 24, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 25, 2024
+	Yesterday :
+	Today     : allocated tasks to sprint 2
+	Obstacles : not much, took a 2 day break from coding due to a pinky injury that made it hard to type for long periods of time
+
+Nov 26, 2024
+	Yesterday : allocated US3.2 to sprint 2
+	Today     : I will finish US3.2
+	Obstacles : still unfamiliar with FileIO so it will be a little bit of a learning experience.
+	
+Nov 27, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 28, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 29, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 30, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Dec 1, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Dec 2, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Dec 3, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Dec 4, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Dec 5, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+
