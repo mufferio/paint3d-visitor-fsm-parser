@@ -192,14 +192,14 @@ The repository demonstrates several common OO patterns:
 From the project module directory:
 
 ```bash
-cd /tmp/workspace/mufferio/paint3d-visitor-fsm-parser/a3
+cd a3
 ./mvnw compile
 ```
 
 ### Test
 
 ```bash
-cd /tmp/workspace/mufferio/paint3d-visitor-fsm-parser/a3
+cd a3
 ./mvnw test
 ```
 
@@ -252,8 +252,8 @@ Examples:
 
 See:
 
-- `/tmp/workspace/mufferio/paint3d-visitor-fsm-parser/a3/src/main/resources/paintSaveFileFormat.txt`
-- `/tmp/workspace/mufferio/paint3d-visitor-fsm-parser/a3/src/main/resources/paintSaveFileExample.txt`
+- `a3/src/main/resources/paintSaveFileFormat.txt`
+- `a3/src/main/resources/paintSaveFileExample.txt`
 
 ## Tests
 
