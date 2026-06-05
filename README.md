@@ -2,9 +2,9 @@
 
 ## Overview
 
-This repository contains a JavaFX paint application built around a classic **model-view-controller** structure, plus coursework artifacts for an assignment focused on drawing tools, file persistence, and parser design. The application lets a user draw multiple shape types on a canvas and includes the beginnings of a parser-driven load workflow for a custom text-based paint save format.
+This repository contains a JavaFX paint application built around a classic **model-view-controller** structure, plus coursework artifacts for an assignment focused on drawing tools, file persistence, and parser design. The application lets a user draw multiple shape types on a 2D canvas and includes the beginnings of a parser-driven load workflow for a custom text-based paint save format.
 
-Although the repository name references a visitor/FSM parser theme, the code currently centers on:
+Although the repository name references a visitor/FSM parser theme and includes `3d`, the current codebase is a **2D** drawing application. It currently centers on:
 
 - **MVC separation** for UI, input handling, and drawing state
 - **Observer-based repainting** between drawing commands and the canvas
@@ -63,6 +63,8 @@ The repository includes:
 - **Module system:** Java Platform Module System (`module-info.java`)
 
 ## Architecture
+
+Unless otherwise noted, file paths in this README are relative to the repository root.
 
 ### 1. Entry point
 
